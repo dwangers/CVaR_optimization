@@ -1,2 +1,2 @@
-# CVaR_optimization
-Optimizing portfolio via CVaR minimization
+# CVaR Optimization
+Optimizing portfolio weights via CVaR
